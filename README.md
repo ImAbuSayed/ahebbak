@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور العيون
+> في قلبي نار وشجون
+> شوقي لك فاق الظنون
+> هذا العشق هو الجنون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
